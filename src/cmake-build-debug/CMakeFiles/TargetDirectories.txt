@@ -1,0 +1,3 @@
+/home/ubuntu/System2019/model/merge_2/pos/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/System2019/model/merge_2/pos/src/cmake-build-debug/CMakeFiles/src.dir
+/home/ubuntu/System2019/model/merge_2/pos/src/cmake-build-debug/CMakeFiles/edit_cache.dir

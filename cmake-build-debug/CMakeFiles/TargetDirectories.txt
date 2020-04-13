@@ -1,0 +1,3 @@
+/home/ubuntu/System2019/pintos/pos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/System2019/pintos/pos/cmake-build-debug/CMakeFiles/pos.dir
+/home/ubuntu/System2019/pintos/pos/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,1 +1,1 @@
-*.cmake linguist-language=c++
+*.* linguist-language=C++
